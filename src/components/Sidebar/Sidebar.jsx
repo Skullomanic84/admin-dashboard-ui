@@ -31,7 +31,7 @@ function Sidebar() {
                         Dashboard
                     </h3>
                     <ul className="sidebar__list">
-                        <li className="sidebar__listItem">
+                        <li className="sidebar__listItem active">
                             <LineStyleIcon className="sidebarIcon" />
                             Home
                         </li>
