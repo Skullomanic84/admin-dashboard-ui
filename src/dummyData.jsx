@@ -57,3 +57,73 @@ export const data = [
     cost: 892,
     },
   ];
+
+  // user table data
+
+  export const userRow = [
+    { id: 1, 
+        username: 'Jon Snow', 
+        avatar: 'https://image.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg', 
+        email: 'jonsnow@gmail.com',
+        status: 'active',
+        transaction: 'R120.00'
+     },
+     { id: 2, 
+        username: 'Jon Snow', 
+        avatar: 'https://image.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg', 
+        email: 'jonsnow@gmail.com',
+        status: 'active',
+        transaction: 'R120.00'
+     },
+     { id: 3, 
+        username: 'Jon Snow', 
+        avatar: 'https://image.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg', 
+        email: 'hog@mail.com',
+        status: 'active',
+        transaction: 'R120.00'
+     },
+     { id: 4, 
+        username: 'Jon Snow', 
+        avatar: 'https://image.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg', 
+        email: 'jonsnow@gmail.com',
+        status: 'active',
+        transaction: 'R120.00'
+     },
+     { id: 5, 
+        username: 'Jon Snow', 
+        avatar: 'https://image.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg', 
+        email: 'hog@mail.com',
+        status: 'active',
+        transaction: 'R120.00'
+     },
+     { id: 6, 
+        username: 'Jon Snow', 
+        avatar: 'https://image.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg', 
+        email: 'jonsnow@gmail.com',
+        status: 'active',
+        transaction: 'R120.00'
+     },
+     { id: 7, 
+        username: 'Jon Snow', 
+        avatar: 'https://image.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg', 
+        email: 'hog@mail.com',
+        status: 'active',
+        transaction: 'R120.00'
+     },
+     { id: 8, 
+        username: 'Jon Snow', 
+        avatar: 'https://image.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg', 
+        email: 'jonsnow@gmail.com',
+        status: 'active',
+        transaction: 'R120.00'
+     },
+     { id: 9, 
+        username: 'Jon Snow', 
+        avatar: 'https://image.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg', 
+        email: 'jonsnow@gmail.com',
+        status: 'active',
+        transaction: 'R120.00'
+     },
+
+
+  ];
