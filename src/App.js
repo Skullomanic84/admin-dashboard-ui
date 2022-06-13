@@ -17,15 +17,15 @@ function App() {
         <Sidebar />
         <Switch>
 
-          <Route exact path='/'>
+          <Route exact path="/">
           <Home />
           </Route>
 
-          <Route path='/userList'>
+          <Route path="/users">
           <UserList />
           </Route>
 
-          <Route exact path='/user/:userId'>
+          <Route path='/user/:userId'>
           <User />
           </Route>
 
